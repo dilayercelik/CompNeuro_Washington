@@ -8,21 +8,21 @@ This course provides an introduction to basic computational methods for understa
 
 # Content (week by week)
 
-WEEK 1 - Introduction & Basic Neurobiology (Rajesh Rao)
+WEEK 1 - Introduction & Basic Neurobiology 
 
-WEEK 2 - What do Neurons Encode? Neural Encoding Models (Adrienne Fairhall)
+WEEK 2 - What do Neurons Encode? Neural Encoding Models 
 
-WEEK 3 - Extracting Information from Neurons: Neural Decoding (Adrienne Fairhall)
+WEEK 3 - Extracting Information from Neurons: Neural Decoding 
 
-WEEK 4 - Information Theory & Neural Coding (Adrienne Fairhall)
+WEEK 4 - Information Theory & Neural Coding 
 
-WEEK 5 - Computing in Carbon (Adrienne Fairhall)
+WEEK 5 - Computing in Carbon 
 
-WEEK 6 - Computing with Networks (Rajesh Rao)
+WEEK 6 - Computing with Networks 
 
-WEEK 7 - Networks that Learn: Plasticity in the Brain & Learning (Rajesh Rao)
+WEEK 7 - Networks that Learn: Plasticity in the Brain & Learning 
 
-WEEK 8 - Learning from Supervision and Rewards (Rajesh Rao)
+WEEK 8 - Learning from Supervision and Rewards
 
 
 # Instructors
