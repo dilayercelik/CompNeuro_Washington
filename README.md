@@ -38,7 +38,7 @@ WEEK 8 - Learning from Supervision and Rewards (Rajesh Rao)
 - [CNC within the University of Washington](https://cneuro-web01.s.uw.edu/)
 
 
-# Skills gained: An introductory understanding of ...
+# Skills gained: an introductory understanding of ...
 
 - computational neuroscience
 - artificial neural network
