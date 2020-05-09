@@ -25,6 +25,12 @@ WEEK 7 - Networks that Learn: Plasticity in the Brain & Learning (Rajesh Rao)
 WEEK 8 - Learning from Supervision and Rewards (Rajesh Rao)
 
 
+# Instructors
+
+[Rajesh P. N. Rao](https://www.rajeshpnrao.com/)
+[Adrienne Fairhall](https://depts.washington.edu/neurogrd/people/faculty/adrienne-fairhall/)
+
+
 # Relevant website pages
 
 - [Course on Coursera](https://www.coursera.org/learn/computational-neuroscience)
