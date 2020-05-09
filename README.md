@@ -27,8 +27,9 @@ WEEK 8 - Learning from Supervision and Rewards (Rajesh Rao)
 
 # Instructors
 
-[Rajesh P. N. Rao](https://www.rajeshpnrao.com/)
-[Adrienne Fairhall](https://depts.washington.edu/neurogrd/people/faculty/adrienne-fairhall/)
+- [Rajesh P. N. Rao](https://www.rajeshpnrao.com/)
+
+- [Adrienne Fairhall](https://depts.washington.edu/neurogrd/people/faculty/adrienne-fairhall/)
 
 
 # Relevant website pages
