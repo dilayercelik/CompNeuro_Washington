@@ -25,6 +25,27 @@ WEEK 7 - Networks that Learn: Plasticity in the Brain & Learning
 WEEK 8 - Learning from Supervision and Rewards
 
 
+# Weekly quizzes (programming + theory)
+
+I chose to do all the programming questions in Python (3.8.0)
+
+Quiz 1 - Practice Quiz (Python Programming)
+
+Quiz 2 - Spike Triggered Averages: a glimpse into neural encoding
+
+Quiz 3 - Neural Decoding
+
+Quiz 4 - Information Theory & Neural Coding
+
+Quiz 5 - Computing in Carbon
+
+Quiz 6 - Computing with Networks
+
+Quiz 7 - Networks that Learn
+
+Quiz 8 - Learning from Supervision and Rewards
+
+
 # Instructors
 
 - [Rajesh P. N. Rao](https://www.rajeshpnrao.com/)
