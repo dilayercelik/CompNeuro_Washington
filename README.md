@@ -27,7 +27,7 @@ WEEK 8 - Learning from Supervision and Rewards
 
 # Weekly quizzes (programming + theory)
 
-I chose to do all the programming questions in Python (3.8.0)
+I chose to do all the programming questions in Python (3.8.0) except Quiz 3 (Matlab)
 
 Quiz 1 - Practice Quiz (Python Programming)
 
