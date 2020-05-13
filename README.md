@@ -1,5 +1,5 @@
 # CompNeuro_Washington
-[](logo_course.jpg)
+![Computational Neuroscience](logo_course.jpg)
 
 This repository contains answers to the weekly quizzes of the MOOC "Computational Neuroscience" offered by The University of Washington (Coursera - 8 WEEKS). 
 
